@@ -105,8 +105,8 @@ def login():
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="123Quentin",
-    database='Today'
+    passwd="123Password",
+    database='Lego'
 )
 #To connect to db
 
