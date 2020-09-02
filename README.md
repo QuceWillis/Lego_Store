@@ -10,5 +10,7 @@ Store Mode is used as a simulation for employees to "manage" and handle the "in-
 3.	Next run the “Insert.py” which create all of the tables – Relational Schema
 4.	Lastly run the “Legos.py” which is the actual code for the project – Abstract SQL code
 
+Will need to access mysql through terminal or MySQLWorkbench in order to see some of the results
+
 
 *****CHANGE CONNECTOR.CONNECT() INFO TO PERSONAL INFORMATION************
